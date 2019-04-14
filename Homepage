@@ -1,0 +1,79 @@
+<!DOCTYPE html/>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="x=UA-compatible" content="ie=edge">
+  <title>LeopoldosPhotos</title>
+  <link rel="stylesheet" href="css\styles.css" />
+  <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Lobster+Two" rel="stylesheet">
+</head>
+<body>
+<header>
+  <nav class="navwrap">
+    <div class="logo">
+      <a href="portfolio index.html"> <img "id="imglogo" src="img\leologos.png"></a>
+    </div>
+    <div>
+     <ul class="nav-links">
+        <li id="home"><a href="portfolio index.html">Welcome</a></li>
+        <li id="abt"><a href="about.html">Leo</a></li>
+        <li id="ig"><a href="https://www.instagram.com/leopoldosphotos" target="_blank">Instaleo</a></li>
+        <li> <a href="#"><i class="fa fa-instagram"></i></a></li>
+     </ul>
+   </div>
+  </nav>
+</header>
+  <div class="banner">
+    <span id="banner-span">
+    <h1 id="mind">Lose your mind</h1>
+  </span>
+  </div>
+<div class="grid-wrap">
+  <div class="grid">
+    <div class="grid1">
+     <img src="img\leo1 - Copy.jpg" alt="pic3">
+    </div>
+    <div class="grid2">
+     <img src="img\leo2 - Copy.jpg" alt="pic2">
+    </div>
+    <div class="grid3">
+     <img src="img\leo3 - Copy.jpg" alt="pic3">
+    </div>
+    <div class="grid4">
+     <img src="img\leo4 - Copy.jpg" alt="pic4">
+    </div>
+    <div class="grid5">
+     <img src="img\leo5 - Copy.jpg" alt="pic">
+    </div>
+    <div class="grid6">
+     <img src="img\leo6 - Copy.jpg" alt="pic">.
+    </div>
+    <div class="grid7">
+     <img src="img\leo7 - Copy.jpg" alt="pic">.
+    </div>
+    <div class="grid8">
+     <img src="img\leo8 - Copy.jpg" alt="pic">.
+    </div>
+    <div class="grid9">
+     <img src="img\wedding1.jpg" alt="pic">.
+    </div>
+  </div>
+</div>
+    <!--button
+    <div class="view-more">
+      <button href="class="butn">View my Photos</button>
+    </div>
+    -------->
+   </body>
+   <!-- footer^^-->
+   <footer class-"footer">
+   <h4 id="copyright">© Copyright 2019 Leopoldosphotos &nbsp;Designed & Built by&nbsp;<a id="john" href="https://johnblay.com">John<a href="https//www.johnblay.com"></h4>
+   </footer>
+<!-- Body^^-->
+<!--button-->
+
+<!-- footer^^-->
+</html>
